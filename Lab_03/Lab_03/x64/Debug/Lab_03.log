@@ -1,0 +1,9 @@
+﻿  Lab_02.c
+C:\Users\kamil\source\repos\Lab_03\Lab_03\Lab_02.c(167,29): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\kamil\source\repos\Lab_03\Lab_03\Lab_02.c(167,12): warning C4473: „scanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+      C:\Users\kamil\source\repos\Lab_03\Lab_03\Lab_02.c(167,12):
+      symbole zastępcze i ich parametry oczekują 1 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 0
+      C:\Users\kamil\source\repos\Lab_03\Lab_03\Lab_02.c(167,12):
+      brakujący argument 1 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%d”
+  
+C:\Users\kamil\source\repos\Lab_03\Lab_03\Lab_02.c(172,21): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
